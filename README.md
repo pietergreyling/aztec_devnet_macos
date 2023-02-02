@@ -100,7 +100,7 @@ $ curl -s https://raw.githubusercontent.com/AztecProtocol/dev-rel/main/docker-co
 
 Docker Desktop should open up and look similar to this image
 
-![](https://hackmd.io/_uploads/Sk6h7-vns.png)
+![Docker Desktop on macOS](./images/docker-desktop-on-macos.png)
 
 The terminal should display something similar to the following
 
